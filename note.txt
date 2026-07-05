@@ -1,1 +1,4 @@
 Hello Open Source
+Hi! I'm Anmol.
+
+This is my personal sandbox repository where I practice Git, GitHub, React, JavaScript, and open-source contribution workflows.
